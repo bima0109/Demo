@@ -254,8 +254,6 @@ if uploaded:
             confidence_gauge(conf_avg),
             use_container_width=True
         )
- 
-
 
 # ================= THEME SWITCH =================
 theme = st.toggle("🌗 Dark Mode", value=True)
